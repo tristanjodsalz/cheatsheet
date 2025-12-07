@@ -3,8 +3,10 @@ outline: deep
 
 prev:
   text: "DNA"
-  link: "/biologie/dna"
-next: false
+  link: "/biologie/zelle/dna"
+next:
+  text: "Endosymbiontentheorie"
+  link: "/biologie/zelle/endosymbiontentheorie"
 ---
 
 # Protein Biosynthese

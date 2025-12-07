@@ -28,8 +28,15 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: "Übersicht", link: "/biologie/" },
-          { text: "DNA", link: "/biologie/dna" },
-          { text: "Protein Biosynthese", link: "/biologie/proteinbiosysthese" },
+          {
+            text: "Die Zelle",
+            link: "biologie/zelle",
+            items: [
+              { text: "DNA", link: "/biologie/zelle/dna" },
+              { text: "Protein Biosynthese", link: "/biologie/zelle/proteinbiosynthese" },
+              { text: "Endoymbiontentheorie", link: "/biologie/zelle/endosymbiontentheorie" }
+            ]
+          }
         ],
       },
       {

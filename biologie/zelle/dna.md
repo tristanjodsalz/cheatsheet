@@ -2,11 +2,11 @@
 outline: deep
 
 prev:
-  text: "Biologie - Übersicht"
-  link: "/biologie/"
+  text: "Die Zelle"
+  link: "/biologie/zelle"
 next:
-  text: Protein Biosysthese
-  link: "biologie/proteinbiosysthese"
+  text: Protein Biosynthese
+  link: "biologie/zelle/proteinbiosynthese"
 ---
 
 # DNA
@@ -30,4 +30,4 @@ Nukleotide bestehen aus einem Phosphatrest, dem Zucker Desoxyribose, und einer d
 
 ## Zweck
 
-Mit der Reihenfolge der Basen wird der Aufbau von Proteinen festgelegt. Nach der [Transkription](/biologie/proteinbiosysthese.md#transkription) wird die DNA mithilfe des _Gentischen Codes_ in eine Kette Aminosäuren bzw. ein Protein [transkribiert](/biologie/proteinbiosysthese.md#transkription).
+Mit der Reihenfolge der Basen wird der Aufbau von Proteinen festgelegt. Nach der [Transkription](/biologie/proteinbiosynthese.md#transkription) wird die DNA mithilfe des _Gentischen Codes_ in eine Kette Aminosäuren bzw. ein Protein [transkribiert](/biologie/proteinbiosynthese.md#transkription).

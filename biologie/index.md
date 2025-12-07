@@ -3,19 +3,15 @@ outline: deep
 
 prev: false
 next:
-  text: DNA
-  link: "biologie/dna"
+  text: Die Zelle
+  link: "biologie/zelle"
 ---
 
 # Biologie
 
-Sachen, die gut für Bio und Biochemie zu wissen sind:
+Sachen, die gut für die Biologie zu wissen sind:
 
-## Die Zelle
-
-Man unterscheidet zwischen pflanzlichen und tierischen Zellen.
-Tierische Zellen haben z.B. einen Zellkern.
-
-- [DNA](dna)
-
-Proteine werden inerhalb einer Zelle durch [Protein Biosysthese](proteinbiosysthese) hergestellt.
+- [Die Zelle](zelle)
+  - [DNA](zelle/dna)
+  - [Proteinbiosynthese](zelle/proteinbiosynthese)
+  - [Endosymbiontentheorie](zelle/endosymbiontentheorie)
