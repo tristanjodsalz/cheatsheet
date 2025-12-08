@@ -30,4 +30,4 @@ Nukleotide bestehen aus einem Phosphatrest, dem Zucker Desoxyribose, und einer d
 
 ## Zweck
 
-Mit der Reihenfolge der Basen wird der Aufbau von Proteinen festgelegt. Nach der [Transkription](/biologie/proteinbiosynthese.md#transkription) wird die DNA mithilfe des _Gentischen Codes_ in eine Kette Aminosäuren bzw. ein Protein [transkribiert](/biologie/proteinbiosynthese.md#transkription).
+Mit der Reihenfolge der Basen wird der Aufbau von Proteinen festgelegt. Nach der [Transkription](/biologie/zelle/proteinbiosynthese.md#transkription) wird die DNA mithilfe des _Gentischen Codes_ in eine Kette Aminosäuren bzw. ein Protein [transkribiert](/biologie/zelle/proteinbiosynthese.md#transkription).

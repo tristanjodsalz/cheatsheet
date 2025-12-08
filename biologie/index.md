@@ -11,7 +11,7 @@ next:
 
 Sachen, die gut für die Biologie zu wissen sind:
 
-- [Die Zelle](zelle)
+- [Die Zelle](zelle/)
   - [DNA](zelle/dna)
   - [Proteinbiosynthese](zelle/proteinbiosynthese)
   - [Endosymbiontentheorie](zelle/endosymbiontentheorie)
